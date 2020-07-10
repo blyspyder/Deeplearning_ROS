@@ -1,4 +1,5 @@
 - 寻找除了yolo之外的目标检测模型，并按照官方教程能够正常运行，目前不需要调参
 - 看懂模型的输入输出方式
 - 根据个人情况，tensorflow和pytorch的模型都可以
+- 完成[李宏毅深度学习CNN部分](https://www.bilibili.com/video/BV1JE411g7XF?p=17)及[作业](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html)
 - 下周五作汇报
